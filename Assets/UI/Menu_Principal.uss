@@ -1,0 +1,94 @@
+:root {
+}
+
+.boton {
+    background-image: url("project://database/Assets/Im%C3%A1genes/boton%20sin%20seleccionar%20png.png?fileID=2800000&guid=fe3c51a9ade3a0e43b90c3beff65a802&type=3#boton sin seleccionar png");
+    width: 38%;
+    height: 25%;
+    background-color: rgba(48, 25, 52, 0.56);
+    margin-top: 10px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    color: rgb(254, 215, 2);
+    font-size: 20px;
+}
+
+.boton:hover {
+    background-image: url("project://database/Assets/Im%C3%A1genes/bot%C3%B3n%20seleccionado%20png.png?fileID=2800000&guid=0dcf00b5be42b5a43a56a7926a4d9caf&type=3#botón seleccionado png");
+}
+
+.pause {
+    background-image: url("project://database/Assets/Im%C3%A1genes/pause%20sin%20seleccionar.png?fileID=2800000&guid=f2d2f38fec50ab74092c12adf2839739&type=3#pause sin seleccionar");
+}
+
+.pause:hover {
+    background-image: url("project://database/Assets/Im%C3%A1genes/pause%20seleccionado.png?fileID=2800000&guid=c5bcac84ea8d2c64d91feb08cb94bca0&type=3#pause seleccionado");
+}
+
+.music {
+    background-color: rgba(48, 25, 52, 0.56);
+    background-image: url("project://database/Assets/Im%C3%A1genes/musica%20sin%20seleccionar%20bits.png?fileID=2800000&guid=25a633e88ad1cc747b18cc33e1f61712&type=3#musica sin seleccionar bits");
+}
+
+.music:hover {
+    background-image: url("project://database/Assets/Im%C3%A1genes/musica%20seleccionado%20bits.png?fileID=2800000&guid=853e1f22adbd5c64a8acb0eafe7885ad&type=3#musica seleccionado bits");
+    background-color: rgba(48, 25, 52, 0.56);
+}
+
+.texttospeech {
+    background-image: url("project://database/Assets/Im%C3%A1genes/text%20to%20speech%20sin%20seleccionar%20bits.png?fileID=2800000&guid=1257a4b75041a7047b86885f95fec35c&type=3#text to speech sin seleccionar bits");
+    background-color: rgba(48, 25, 52, 0.56);
+}
+
+.texttospeech:hover {
+    background-image: url("project://database/Assets/Im%C3%A1genes/text%20to%20speech%20seleccionado%20bits.png?fileID=2800000&guid=67327f491200c8044afe436e58c51ed5&type=3#text to speech seleccionado bits");
+    background-color: rgba(48, 25, 52, 0.56);
+}
+
+.back {
+    background-image: url("project://database/Assets/Im%C3%A1genes/flecha%20back%20sin%20seleccionar.png?fileID=2800000&guid=cccc55472865ab04b9dde6b44e76056b&type=3#flecha back sin seleccionar");
+    background-color: rgba(0, 0, 0, 0);
+    width: 85px;
+    height: 70px;
+}
+
+.back:hover {
+    background-image: url("project://database/Assets/Im%C3%A1genes/flecha%20back%20seleccionada.png?fileID=2800000&guid=21d200ee2388dff4ab7550b91668bed4&type=3#flecha back seleccionada");
+    width: 85px;
+    height: 70px;
+}
+
+.mas {
+    margin-top: 2px;
+    margin-right: 4px;
+    margin-bottom: 2px;
+    margin-left: 260px;
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    color: rgb(254, 215, 2);
+    font-size: 40px;
+    -unity-font-style: bold;
+}
+
+.mas:hover {
+    font-size: 40px;
+    -unity-font-style: bold;
+    color: rgb(225, 24, 203);
+}
+
+.menos {
+    font-size: 40px;
+    color: rgb(254, 215, 2);
+    -unity-font-style: bold;
+    margin-left: 300px;
+    margin-top: -55px;
+}
+
+.menos:hover {
+    color: rgb(225, 24, 203);
+    font-size: 40px;
+    -unity-font-style: bold;
+}

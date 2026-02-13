@@ -1,0 +1,24 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Menu_Principal.uss?fileID=7433441132597879392&amp;guid=095c33b3e5801374db20b043739f29b3&amp;type=3#Menu_Principal" />
+    <ui:VisualElement name="CREDITOS" style="flex-grow: 1; width: 100%; height: 100%; background-image: url(&quot;project://database/Assets/Im%C3%A1genes/Fondo%20con%20marco.png?fileID=2800000&amp;guid=18e221996beadbe4ab38063647d8aa9f&amp;type=3#Fondo con marco&quot;);">
+        <ui:VisualElement name="ART_CHAMP" style="flex-grow: 1; background-size: 250px 250px; width: 100%; height: 40%; background-image: url(&quot;project://database/Assets/Im%C3%A1genes/IMG_0961.PNG?fileID=2800000&amp;guid=a050b50f2e93b7041873d2b0dad79c24&amp;type=3#IMG_0961&quot;); align-content: auto; align-self: auto; justify-content: flex-start; align-items: auto; top: 60px; position: absolute;" />
+        <ui:VisualElement name="Narracion" style="flex-grow: 1; position: absolute; top: 280px; align-items: auto; margin-left: 34%; white-space: normal; flex-direction: row; flex-wrap: nowrap; width: 70%; height: 15%;">
+            <ui:Label name="Linea_audio" style="background-image: url(&quot;project://database/Assets/Im%C3%A1genes/l%C3%ADnea%20audio%20sin%20fondo.png?fileID=2800000&amp;guid=161355da01cc95c408bf99e555ae8092&amp;type=3#línea audio sin fondo&quot;); position: absolute; width: 380px; height: 14px; padding-left: 0; margin-left: 0; -unity-text-align: upper-left; align-self: auto; justify-content: flex-start; align-content: auto; align-items: auto;" />
+            <ui:Button parse-escape-sequences="true" name="Pause" class="pause" style="background-color: rgba(188, 188, 188, 0); position: absolute; margin-left: -5%; width: 25px; height: 31px; padding-top: 10px; left: auto; padding-left: 12px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Back" style="flex-grow: 1; margin-top: 30%; margin-left: 33%;">
+            <ui:Button name="BackButton" class="back" style="width: 40px; height: 33px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="PARRAFO" style="flex-grow: 1; position: absolute; justify-content: space-between; align-self: center; align-items: auto; align-content: auto; margin-top: 30%;">
+            <ui:Label name="Fondo_texto" style="color: rgb(254, 215, 2); font-size: 18px; -unity-text-align: upper-center; position: absolute; align-self: center; margin-top: 70%; background-image: url(&quot;project://database/Assets/Im%C3%A1genes/P%C3%A1rrafo%20sin%20fondo.png?fileID=2800000&amp;guid=a074a187ff53fae4093e3e21dd4b50b6&amp;type=3#Párrafo sin fondo&quot;); background-size: 220px 183px; width: 220px; height: 183px; -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgba(48, 25, 52, 0.56); justify-content: flex-start; align-items: center;" />
+            <ui:Label text="Productor&#10;Juegos Libélula&#10;&#10;Director&#10;Dylan Adriel&#10;&#10;Diseñador&#10;Dylan Adriel" name="Texto_creditos" style="color: rgb(254, 215, 2); font-size: 16px; -unity-text-align: upper-center; position: absolute; align-self: center; margin-top: 20%; background-image: none; background-size: 327px 273px; width: 100%; height: 40%; padding-top: 15px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="LOGO" style="flex-grow: 1; position: absolute; width: 100%; height: 20%; margin-top: 49%;">
+            <ui:Label style="background-image: url(&quot;project://database/Assets/Im%C3%A1genes/IMG_0970.PNG?fileID=2800000&amp;guid=aefe8a248f689b842b789292bbf5e321&amp;type=3#IMG_0970&quot;); background-size: 100% 100%; width: 70px; height: 70px; align-self: flex-end; right: 65px; bottom: 30px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="AUDIO" style="flex-grow: 1; background-size: 100% 100%; height: 15%; background-image: none; width: 100%; margin-top: 46%; position: absolute; align-items: center; flex-direction: row; margin-left: 55px;">
+            <ui:Button name="Music" class="music" style="width: 40px; height: 40px; margin-left: 10px;" />
+            <ui:Button text="&#10;" name="Text_to_speech" class="texttospeech" style="width: 50px; height: 40px; margin-right: 10px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

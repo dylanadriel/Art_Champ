@@ -1,0 +1,20 @@
+# Carpetas generadas por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Archivos generados por Visual Studio
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
