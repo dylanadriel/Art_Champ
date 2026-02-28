@@ -23,7 +23,7 @@ public class ScriptMenu : MonoBehaviour
     float tamanoFuente = 20f;
 
 
-    void Awake()
+    void OnEnable()
     {
         //pongo variable root para no tener que llamar a get component cada vez
         var root = GetComponent<UIDocument>().rootVisualElement;

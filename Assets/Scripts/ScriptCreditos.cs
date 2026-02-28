@@ -6,7 +6,7 @@ public class ScriptCreditos : MonoBehaviour
     [SerializeField]
     GameObject menuPage;
 
-    void Awake()
+    void OnEnable()
     {
 
         Button BackButton = GetComponent<UIDocument>().rootVisualElement.Q("BackButton") as Button;
