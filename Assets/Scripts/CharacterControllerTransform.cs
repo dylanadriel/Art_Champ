@@ -7,24 +7,32 @@ public class CharacterControllerTransform : MonoBehaviour
     public float speed = 5.0f;
     bool facingRight = true;
 
+    public float jumpForce = 5f;
+    private Rigidbody2D rb;
+    private bool isGrounded;
+
     Animator animator;
+
+    AudioSource audioSource;
 
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
+
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void Update()
     {
         float horizontal = Input.GetAxis("Horizontal");
-        float vertical = Input.GetAxis("Vertical");
+        float speedValue = Mathf.Abs(horizontal);
 
-        animator.SetFloat("Speed", Mathf.Abs(horizontal) + Mathf.Abs(vertical));
-        
+        animator.SetFloat("Speed", speedValue);
+
         Vector2 position = transform.position;
         position.x = position.x + speed * horizontal * Time.deltaTime;
-        position.y = position.y + speed * vertical * Time.deltaTime;
         transform.position = position;
 
         if (horizontal > 0 && !facingRight)
@@ -35,8 +43,32 @@ public class CharacterControllerTransform : MonoBehaviour
         {
             Flip();
         }
+
+        if (speedValue == 0)
+        {
+            if (!audioSource.isPlaying)
+                audioSource.Play();
+        }
+        else
+        {
+            if (audioSource.isPlaying)
+        audioSource.Stop();
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            isGrounded = false;
+        }
     }
 
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+    }
     void Flip()
     {
         // Switch the way the player is labelled as facing.

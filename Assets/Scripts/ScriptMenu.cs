@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 
 public class ScriptMenu : MonoBehaviour
 {
@@ -64,7 +65,7 @@ public class ScriptMenu : MonoBehaviour
 
     void StartGame()
     {
-        gameObject.SetActive(false);
+        SceneManager.LoadScene("Level1");
     }
 
     void ChangePage()

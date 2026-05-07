@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 98261e5d1d4970544b2dda12032ebdf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6877769667785643070
+    second: Seta coleccionable spritesheet_0
+  - first:
+      213: 1388762006394766545
+    second: Seta coleccionable spritesheet_1
+  - first:
+      213: -6231497154581206482
+    second: Seta coleccionable spritesheet_2
+  - first:
+      213: 4111101636874746147
+    second: Seta coleccionable spritesheet_3
+  - first:
+      213: -45387960630849674
+    second: Seta coleccionable spritesheet_4
+  - first:
+      213: 8280822513969962341
+    second: Seta coleccionable spritesheet_5
+  - first:
+      213: -3851748251049267373
+    second: Seta coleccionable spritesheet_6
+  - first:
+      213: -8327647481246742718
+    second: Seta coleccionable spritesheet_7
+  - first:
+      213: 7596249366947553117
+    second: Seta coleccionable spritesheet_8
+  - first:
+      213: 889669166334983041
+    second: Seta coleccionable spritesheet_9
+  - first:
+      213: 670976883791747803
+    second: Seta coleccionable spritesheet_10
+  - first:
+      213: 5384941922170885761
+    second: Seta coleccionable spritesheet_11
+  - first:
+      213: 7821608057821860517
+    second: Seta coleccionable spritesheet_12
+  - first:
+      213: -5814864232145274754
+    second: Seta coleccionable spritesheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 6241
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb2ea85de04d80a0800000000000000
+      internalID: -6877769667785643070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 6241
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d408b4dfafd54310800000000000000
+      internalID: 1388762006394766545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 6241
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a64529a564589a0800000000000000
+      internalID: -6231497154581206482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 6241
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329327d38219d0930800000000000000
+      internalID: 4111101636874746147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 4193
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc489e3efbe5ff0800000000000000
+      internalID: -45387960630849674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 4193
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9c39e3346be270800000000000000
+      internalID: 8280822513969962341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 4193
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fe9f38f57db8ac0800000000000000
+      internalID: -3851748251049267373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 4193
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478c91dcb04e6c80800000000000000
+      internalID: -8327647481246742718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2145
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd1367d8c4b6960800000000000000
+      internalID: 7596249366947553117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2145
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bb303a46db85c00800000000000000
+      internalID: 889669166334983041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 2145
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdad7eabbe9cf4900800000000000000
+      internalID: 670976883791747803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 2145
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186da17c5282bba40800000000000000
+      internalID: 5384941922170885761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 97
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21ec2861feb8c60800000000000000
+      internalID: 7821608057821860517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seta coleccionable spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 97
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e783bd11ac37d4fa0800000000000000
+      internalID: -5814864232145274754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Seta coleccionable spritesheet_0: -6877769667785643070
+      Seta coleccionable spritesheet_1: 1388762006394766545
+      Seta coleccionable spritesheet_10: 670976883791747803
+      Seta coleccionable spritesheet_11: 5384941922170885761
+      Seta coleccionable spritesheet_12: 7821608057821860517
+      Seta coleccionable spritesheet_13: -5814864232145274754
+      Seta coleccionable spritesheet_2: -6231497154581206482
+      Seta coleccionable spritesheet_3: 4111101636874746147
+      Seta coleccionable spritesheet_4: -45387960630849674
+      Seta coleccionable spritesheet_5: 8280822513969962341
+      Seta coleccionable spritesheet_6: -3851748251049267373
+      Seta coleccionable spritesheet_7: -8327647481246742718
+      Seta coleccionable spritesheet_8: 7596249366947553117
+      Seta coleccionable spritesheet_9: 889669166334983041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
