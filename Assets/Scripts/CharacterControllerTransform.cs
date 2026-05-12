@@ -15,6 +15,10 @@ public class CharacterControllerTransform : MonoBehaviour
 
     AudioSource audioSource;
 
+    public int lifes;
+
+    private bool isDead = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +30,8 @@ public class CharacterControllerTransform : MonoBehaviour
 
     void Update()
     {
+        if (isDead) return;
+
         float horizontal = Input.GetAxis("Horizontal");
         float speedValue = Mathf.Abs(horizontal);
 
@@ -60,6 +66,14 @@ public class CharacterControllerTransform : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isGrounded = false;
         }
+
+        if (lifes == 0 && !isDead)
+        {
+            isDead = true;
+            animator.SetTrigger ("Death");
+
+        }
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -79,4 +93,5 @@ public class CharacterControllerTransform : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
+    
 }

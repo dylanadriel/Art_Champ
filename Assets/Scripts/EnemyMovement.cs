@@ -3,12 +3,14 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     public float speed = 2f;
-    public float leftLimit = -5f;
-    public float rightLimit = 5f;
+    public float leftLimit = -2f;
+    public float rightLimit = 2f;
 
     private int direction = 1;
 
     Animator animator;
+
+    public GameObject player;
 
     void Start()
 {
@@ -40,5 +42,10 @@ public class EnemyMovement : MonoBehaviour
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
+    }
+
+    void OnCollisionEnter2D()
+    {
+        player.GetComponent<CharacterControllerTransform>(). lifes -= 1;
     }
 }
