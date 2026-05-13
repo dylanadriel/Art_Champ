@@ -1,0 +1,17 @@
+:root {
+}
+
+.boton {
+    font-size: 20px;
+    color: rgb(254, 215, 2);
+    background-color: rgba(48, 25, 52, 0.56);
+    background-image: url("project://database/Assets/Im%C3%A1genes/boton%20sin%20seleccionar%20png.png?fileID=2800000&guid=fe3c51a9ade3a0e43b90c3beff65a802&type=3#boton sin seleccionar png");
+    width: 38%;
+    height: 25%;
+    align-self: center;
+}
+
+.boton:hover {
+    background-image: url("project://database/Assets/Im%C3%A1genes/bot%C3%B3n%20seleccionado%20png.png?fileID=2800000&guid=0dcf00b5be42b5a43a56a7926a4d9caf&type=3#botón seleccionado png");
+    background-color: rgba(48, 25, 52, 0.56);
+}

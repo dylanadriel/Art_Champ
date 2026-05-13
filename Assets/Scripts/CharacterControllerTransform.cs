@@ -19,6 +19,10 @@ public class CharacterControllerTransform : MonoBehaviour
 
     private bool isDead = false;
 
+    public GameObject gameOver;
+
+    public GameObject puntosYVida;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -72,6 +76,11 @@ public class CharacterControllerTransform : MonoBehaviour
         Die();
         }
 
+        if (transform.position.y <= -10.5)
+        {
+        Die();
+        }
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -102,5 +111,17 @@ public class CharacterControllerTransform : MonoBehaviour
     rb.constraints = RigidbodyConstraints2D.FreezeAll;
 
     animator.SetTrigger("Death");
+
+    StartCoroutine(ShowGameOver());
+
+    }
+
+    IEnumerator ShowGameOver()
+    {
+        //esto hace que la pantalla de game over tarde dos segundos en aparecer para así que dé tiempo a que se reproduzca la animación de death del personaje
+        yield return new WaitForSeconds(2f);
+
+        gameOver.SetActive(true);
+        puntosYVida.SetActive(false);
     }
 }
