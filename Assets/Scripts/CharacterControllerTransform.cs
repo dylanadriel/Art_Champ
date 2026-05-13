@@ -67,11 +67,9 @@ public class CharacterControllerTransform : MonoBehaviour
             isGrounded = false;
         }
 
-        if (lifes == 0 && !isDead)
+        if (lifes <= 0)
         {
-            isDead = true;
-            animator.SetTrigger ("Death");
-
+        Die();
         }
 
     }
@@ -93,5 +91,16 @@ public class CharacterControllerTransform : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
-    
+    void Die()
+    {
+    if (isDead) return;
+
+    isDead = true;
+
+    rb.linearVelocity = Vector2.zero;
+
+    rb.constraints = RigidbodyConstraints2D.FreezeAll;
+
+    animator.SetTrigger("Death");
+    }
 }

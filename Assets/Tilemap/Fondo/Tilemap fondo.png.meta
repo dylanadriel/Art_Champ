@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 60ed83e0012f52d45ac80dff15d32780
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1558302420506263433
+    second: Tilemap fondo_0
+  - first:
+      213: 807892083577744263
+    second: Tilemap fondo_1
+  - first:
+      213: -2805897275652061760
+    second: Tilemap fondo_2
+  - first:
+      213: 8464391204715496291
+    second: Tilemap fondo_3
+  - first:
+      213: 8245769979847778149
+    second: Tilemap fondo_4
+  - first:
+      213: 8174681121488151781
+    second: Tilemap fondo_5
+  - first:
+      213: 5408802025035318882
+    second: Tilemap fondo_6
+  - first:
+      213: 6617125499120048222
+    second: Tilemap fondo_7
+  - first:
+      213: 7447334005891518402
+    second: Tilemap fondo_8
+  - first:
+      213: 2991637253846436178
+    second: Tilemap fondo_9
+  - first:
+      213: 618061785958665495
+    second: Tilemap fondo_10
+  - first:
+      213: 932198227956752968
+    second: Tilemap fondo_11
+  - first:
+      213: -8315596643549051417
+    second: Tilemap fondo_12
+  - first:
+      213: -632473645092192972
+    second: Tilemap fondo_13
+  - first:
+      213: -8906812071302408469
+    second: Tilemap fondo_14
+  - first:
+      213: 5532173209757636216
+    second: Tilemap fondo_15
+  - first:
+      213: -7817171852185402420
+    second: Tilemap fondo_16
+  - first:
+      213: 4961874025450580321
+    second: Tilemap fondo_17
+  - first:
+      213: -2504182954559831321
+    second: Tilemap fondo_18
+  - first:
+      213: 7407165826206780318
+    second: Tilemap fondo_19
+  - first:
+      213: 149816390933106934
+    second: Tilemap fondo_20
+  - first:
+      213: -7050623523492999508
+    second: Tilemap fondo_21
+  - first:
+      213: -8456382827050548407
+    second: Tilemap fondo_22
+  - first:
+      213: -1836663227629492307
+    second: Tilemap fondo_23
+  - first:
+      213: -2790597792474931809
+    second: Tilemap fondo_24
+  - first:
+      213: 27504968917706306
+    second: Tilemap fondo_25
+  - first:
+      213: -2815523814430212255
+    second: Tilemap fondo_26
+  - first:
+      213: -4930335073107809475
+    second: Tilemap fondo_27
+  - first:
+      213: 3674802992581598180
+    second: Tilemap fondo_28
+  - first:
+      213: 6752444046010889029
+    second: Tilemap fondo_29
+  - first:
+      213: -3771830250908697870
+    second: Tilemap fondo_30
+  - first:
+      213: 6127691343334029889
+    second: Tilemap fondo_31
+  - first:
+      213: -7724163376628384788
+    second: Tilemap fondo_32
+  - first:
+      213: 6608285569566201306
+    second: Tilemap fondo_33
+  - first:
+      213: -2353656224523389440
+    second: Tilemap fondo_34
+  - first:
+      213: -7841068345100259364
+    second: Tilemap fondo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap fondo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770c71d643ccf5ae0800000000000000
+      internalID: -1558302420506263433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b6082d195363b00800000000000000
+      internalID: 807892083577744263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c5884b437f09d0800000000000000
+      internalID: -2805897275652061760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363020554fe877570800000000000000
+      internalID: 8464391204715496291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f1864db1cde6270800000000000000
+      internalID: 8245769979847778149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4a46e2b2d427170800000000000000
+      internalID: 8174681121488151781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c4a2e8ccef0b40800000000000000
+      internalID: 5408802025035318882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58da391590c4db50800000000000000
+      internalID: 6617125499120048222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc9d812de3a5760800000000000000
+      internalID: 7447334005891518402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25987546b3e648920800000000000000
+      internalID: 2991637253846436178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4f417bebc39800800000000000000
+      internalID: 618061785958665495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8426c9d6955dfec00800000000000000
+      internalID: 932198227956752968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e504dd19e0199c80800000000000000
+      internalID: -8315596643549051417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbb7e12900937f0800000000000000
+      internalID: -632473645092192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6dbd88c95a46480800000000000000
+      internalID: -8906812071302408469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876598b393a36cc40800000000000000
+      internalID: 5532173209757636216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc38e4a1e93d38390800000000000000
+      internalID: -7817171852185402420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692833132e1cd440800000000000000
+      internalID: 4961874025450580321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e28fdcdeda5f3dd0800000000000000
+      internalID: -2504182954559831321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc777f21a8bc660800000000000000
+      internalID: 7407165826206780318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0591bb631441200800000000000000
+      internalID: 149816390933106934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caecf2dd247272e90800000000000000
+      internalID: -7050623523492999508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94340f46f94e4aa80800000000000000
+      internalID: -8456382827050548407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da72f19868cd286e0800000000000000
+      internalID: -1836663227629492307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dda8cc71ec549d0800000000000000
+      internalID: -2790597792474931809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e5ed9f97b16000800000000000000
+      internalID: 27504968917706306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ffb3012004de8d0800000000000000
+      internalID: -2815523814430212255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b62cf7f5ee39bb0800000000000000
+      internalID: -4930335073107809475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb5e501ad58ff230800000000000000
+      internalID: 3674802992581598180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433e28751085bd50800000000000000
+      internalID: 6752444046010889029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fab38dee54c7abc0800000000000000
+      internalID: -3771830250908697870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a39a49fcee90550800000000000000
+      internalID: 6127691343334029889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebbbf455524ec490800000000000000
+      internalID: -7724163376628384788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5555c96b855bb50800000000000000
+      internalID: 6608285569566201306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00675ed4222265fd0800000000000000
+      internalID: -2353656224523389440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap fondo_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf2db642edee2390800000000000000
+      internalID: -7841068345100259364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4112d1c6bf36c4340814395c9c300490
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":10.0,"y":10.0},"gridSpritePadding":{"x":20.0,"y":20.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Tilemap fondo_0: -1558302420506263433
+      Tilemap fondo_1: 807892083577744263
+      Tilemap fondo_10: 618061785958665495
+      Tilemap fondo_11: 932198227956752968
+      Tilemap fondo_12: -8315596643549051417
+      Tilemap fondo_13: -632473645092192972
+      Tilemap fondo_14: -8906812071302408469
+      Tilemap fondo_15: 5532173209757636216
+      Tilemap fondo_16: -7817171852185402420
+      Tilemap fondo_17: 4961874025450580321
+      Tilemap fondo_18: -2504182954559831321
+      Tilemap fondo_19: 7407165826206780318
+      Tilemap fondo_2: -2805897275652061760
+      Tilemap fondo_20: 149816390933106934
+      Tilemap fondo_21: -7050623523492999508
+      Tilemap fondo_22: -8456382827050548407
+      Tilemap fondo_23: -1836663227629492307
+      Tilemap fondo_24: -2790597792474931809
+      Tilemap fondo_25: 27504968917706306
+      Tilemap fondo_26: -2815523814430212255
+      Tilemap fondo_27: -4930335073107809475
+      Tilemap fondo_28: 3674802992581598180
+      Tilemap fondo_29: 6752444046010889029
+      Tilemap fondo_3: 8464391204715496291
+      Tilemap fondo_30: -3771830250908697870
+      Tilemap fondo_31: 6127691343334029889
+      Tilemap fondo_32: -7724163376628384788
+      Tilemap fondo_33: 6608285569566201306
+      Tilemap fondo_34: -2353656224523389440
+      Tilemap fondo_35: -7841068345100259364
+      Tilemap fondo_4: 8245769979847778149
+      Tilemap fondo_5: 8174681121488151781
+      Tilemap fondo_6: 5408802025035318882
+      Tilemap fondo_7: 6617125499120048222
+      Tilemap fondo_8: 7447334005891518402
+      Tilemap fondo_9: 2991637253846436178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

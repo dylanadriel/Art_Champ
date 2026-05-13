@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: bdb42d25e0fc48b46b1f193116f7889e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 176980157522511479
+    second: "Tilemap fondo ros\xE1ceo_0"
+  - first:
+      213: 3162252830055596397
+    second: "Tilemap fondo ros\xE1ceo_1"
+  - first:
+      213: -1807444580192088441
+    second: "Tilemap fondo ros\xE1ceo_2"
+  - first:
+      213: 7171247604272335557
+    second: "Tilemap fondo ros\xE1ceo_3"
+  - first:
+      213: 8582612817878881326
+    second: "Tilemap fondo ros\xE1ceo_4"
+  - first:
+      213: -8972213925489361388
+    second: "Tilemap fondo ros\xE1ceo_5"
+  - first:
+      213: -5215376873976471126
+    second: "Tilemap fondo ros\xE1ceo_6"
+  - first:
+      213: -3433442665204806442
+    second: "Tilemap fondo ros\xE1ceo_7"
+  - first:
+      213: -1173360313346299564
+    second: "Tilemap fondo ros\xE1ceo_8"
+  - first:
+      213: 9130461177035065221
+    second: "Tilemap fondo ros\xE1ceo_9"
+  - first:
+      213: 4794894435115874313
+    second: "Tilemap fondo ros\xE1ceo_10"
+  - first:
+      213: -4626749052704900750
+    second: "Tilemap fondo ros\xE1ceo_11"
+  - first:
+      213: 5259817874670972817
+    second: "Tilemap fondo ros\xE1ceo_12"
+  - first:
+      213: 8924407173015727410
+    second: "Tilemap fondo ros\xE1ceo_13"
+  - first:
+      213: -104201935544897179
+    second: "Tilemap fondo ros\xE1ceo_14"
+  - first:
+      213: -3057664944665693336
+    second: "Tilemap fondo ros\xE1ceo_15"
+  - first:
+      213: 2422684546412472383
+    second: "Tilemap fondo ros\xE1ceo_16"
+  - first:
+      213: -1587125906956937448
+    second: "Tilemap fondo ros\xE1ceo_17"
+  - first:
+      213: -8629536353199930140
+    second: "Tilemap fondo ros\xE1ceo_18"
+  - first:
+      213: 4283031751726220512
+    second: "Tilemap fondo ros\xE1ceo_19"
+  - first:
+      213: -3456335818026572779
+    second: "Tilemap fondo ros\xE1ceo_20"
+  - first:
+      213: 1786015121281536315
+    second: "Tilemap fondo ros\xE1ceo_21"
+  - first:
+      213: 2875138690477599818
+    second: "Tilemap fondo ros\xE1ceo_22"
+  - first:
+      213: 6108241898453787897
+    second: "Tilemap fondo ros\xE1ceo_23"
+  - first:
+      213: 5961741348400168379
+    second: "Tilemap fondo ros\xE1ceo_24"
+  - first:
+      213: 5132834410457132926
+    second: "Tilemap fondo ros\xE1ceo_25"
+  - first:
+      213: -4234842028212132105
+    second: "Tilemap fondo ros\xE1ceo_26"
+  - first:
+      213: -179557700880826582
+    second: "Tilemap fondo ros\xE1ceo_27"
+  - first:
+      213: 3943189125684339960
+    second: "Tilemap fondo ros\xE1ceo_28"
+  - first:
+      213: -4053057173883744850
+    second: "Tilemap fondo ros\xE1ceo_29"
+  - first:
+      213: -4537844872772213912
+    second: "Tilemap fondo ros\xE1ceo_30"
+  - first:
+      213: -6683291103286244159
+    second: "Tilemap fondo ros\xE1ceo_31"
+  - first:
+      213: 359231056480980715
+    second: "Tilemap fondo ros\xE1ceo_32"
+  - first:
+      213: 4060850740993968909
+    second: "Tilemap fondo ros\xE1ceo_33"
+  - first:
+      213: -7249494240047313441
+    second: "Tilemap fondo ros\xE1ceo_34"
+  - first:
+      213: -3618098081829291486
+    second: "Tilemap fondo ros\xE1ceo_35"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_0"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7760c6df382c47200800000000000000
+      internalID: 176980157522511479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_1"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d610071d13492eb20800000000000000
+      internalID: 3162252830055596397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_2"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e02760bbaaae6e0800000000000000
+      internalID: -1807444580192088441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_3"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca060183b3658360800000000000000
+      internalID: 7171247604272335557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_4"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24926e92e09b1770800000000000000
+      internalID: 8582612817878881326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_5"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eb46ab8fa4c7380800000000000000
+      internalID: -8972213925489361388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_6"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa168d88d524f97b0800000000000000
+      internalID: -5215376873976471126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_7"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc0ccf4616f950d0800000000000000
+      internalID: -3433442665204806442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_8"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459e371030367bfe0800000000000000
+      internalID: -1173360313346299564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_9"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5878ba4b01ae5be70800000000000000
+      internalID: 9130461177035065221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_10"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90834949513ea8240800000000000000
+      internalID: 4794894435115874313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_11"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 490
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27936a8004c7acfb0800000000000000
+      internalID: -4626749052704900750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_12"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f63034d70aef840800000000000000
+      internalID: 5259817874670972817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_13"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dec825a0dd9db70800000000000000
+      internalID: 8924407173015727410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_14"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56130f644eccd8ef0800000000000000
+      internalID: -104201935544897179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_15"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863790bdeedf095d0800000000000000
+      internalID: -3057664944665693336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_16"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386ebf42ca1f9120800000000000000
+      internalID: 2422684546412472383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_17"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 370
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8171306856569f9e0800000000000000
+      internalID: -1587125906956937448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_18"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c233786abd3880800000000000000
+      internalID: -8629536353199930140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_19"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e44c5b8fa2607b30800000000000000
+      internalID: 4283031751726220512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_20"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514211ec2e0a800d0800000000000000
+      internalID: -3456335818026572779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_21"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3156734a4339c810800000000000000
+      internalID: 1786015121281536315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_22"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c26e5e76b86e720800000000000000
+      internalID: 2875138690477599818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_23"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 250
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ee7fc4a5d4c450800000000000000
+      internalID: 6108241898453787897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_24"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd76227b2c5cb250800000000000000
+      internalID: 5961741348400168379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_25"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe23e83bd7b3740800000000000000
+      internalID: 5132834410457132926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_26"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6658ccc91da35c0800000000000000
+      internalID: -4234842028212132105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_27"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fff4ee835128df0800000000000000
+      internalID: -179557700880826582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_28"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4299e2e9509b630800000000000000
+      internalID: 3943189125684339960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_29"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 130
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8f4079f5a0c7c0800000000000000
+      internalID: -4053057173883744850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_30"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863a59871265601c0800000000000000
+      internalID: -4537844872772213912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_31"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc4812b62e2043a0800000000000000
+      internalID: -6683291103286244159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_32"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee46d91ebe3cf400800000000000000
+      internalID: 359231056480980715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_33"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc3decb3a0b5830800000000000000
+      internalID: 4060850740993968909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_34"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd4dbce56f946b90800000000000000
+      internalID: -7249494240047313441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tilemap fondo ros\xE1ceo_35"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 10
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afa0ec6fee9cdc0800000000000000
+      internalID: -3618098081829291486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00b01ac65febb4e4fadac59c313a303a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":10.0,"y":10.0},"gridSpritePadding":{"x":20.0,"y":20.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Tilemap fondo ros\xE1ceo_0": 176980157522511479
+      "Tilemap fondo ros\xE1ceo_1": 3162252830055596397
+      "Tilemap fondo ros\xE1ceo_10": 4794894435115874313
+      "Tilemap fondo ros\xE1ceo_11": -4626749052704900750
+      "Tilemap fondo ros\xE1ceo_12": 5259817874670972817
+      "Tilemap fondo ros\xE1ceo_13": 8924407173015727410
+      "Tilemap fondo ros\xE1ceo_14": -104201935544897179
+      "Tilemap fondo ros\xE1ceo_15": -3057664944665693336
+      "Tilemap fondo ros\xE1ceo_16": 2422684546412472383
+      "Tilemap fondo ros\xE1ceo_17": -1587125906956937448
+      "Tilemap fondo ros\xE1ceo_18": -8629536353199930140
+      "Tilemap fondo ros\xE1ceo_19": 4283031751726220512
+      "Tilemap fondo ros\xE1ceo_2": -1807444580192088441
+      "Tilemap fondo ros\xE1ceo_20": -3456335818026572779
+      "Tilemap fondo ros\xE1ceo_21": 1786015121281536315
+      "Tilemap fondo ros\xE1ceo_22": 2875138690477599818
+      "Tilemap fondo ros\xE1ceo_23": 6108241898453787897
+      "Tilemap fondo ros\xE1ceo_24": 5961741348400168379
+      "Tilemap fondo ros\xE1ceo_25": 5132834410457132926
+      "Tilemap fondo ros\xE1ceo_26": -4234842028212132105
+      "Tilemap fondo ros\xE1ceo_27": -179557700880826582
+      "Tilemap fondo ros\xE1ceo_28": 3943189125684339960
+      "Tilemap fondo ros\xE1ceo_29": -4053057173883744850
+      "Tilemap fondo ros\xE1ceo_3": 7171247604272335557
+      "Tilemap fondo ros\xE1ceo_30": -4537844872772213912
+      "Tilemap fondo ros\xE1ceo_31": -6683291103286244159
+      "Tilemap fondo ros\xE1ceo_32": 359231056480980715
+      "Tilemap fondo ros\xE1ceo_33": 4060850740993968909
+      "Tilemap fondo ros\xE1ceo_34": -7249494240047313441
+      "Tilemap fondo ros\xE1ceo_35": -3618098081829291486
+      "Tilemap fondo ros\xE1ceo_4": 8582612817878881326
+      "Tilemap fondo ros\xE1ceo_5": -8972213925489361388
+      "Tilemap fondo ros\xE1ceo_6": -5215376873976471126
+      "Tilemap fondo ros\xE1ceo_7": -3433442665204806442
+      "Tilemap fondo ros\xE1ceo_8": -1173360313346299564
+      "Tilemap fondo ros\xE1ceo_9": 9130461177035065221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

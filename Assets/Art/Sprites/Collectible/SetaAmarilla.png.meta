@@ -1,49 +1,58 @@
 fileFormatVersion: 2
-guid: 98261e5d1d4970544b2dda12032ebdf0
+guid: 2c48190a099ad0b499f0311e02e8afad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6877769667785643070
-    second: Seta coleccionable spritesheet_0
+      213: -2108652701944903805
+    second: SetaAmarilla_0
   - first:
-      213: 1388762006394766545
-    second: Seta coleccionable spritesheet_1
+      213: 3997421939425669158
+    second: SetaAmarilla_1
   - first:
-      213: -6231497154581206482
-    second: Seta coleccionable spritesheet_2
+      213: 1401094510823672021
+    second: SetaAmarilla_2
   - first:
-      213: 4111101636874746147
-    second: Seta coleccionable spritesheet_3
+      213: 5954904337294897323
+    second: SetaAmarilla_3
   - first:
-      213: -45387960630849674
-    second: Seta coleccionable spritesheet_4
+      213: 3526108323715179392
+    second: SetaAmarilla_4
   - first:
-      213: 8280822513969962341
-    second: Seta coleccionable spritesheet_5
+      213: 7489348457539908204
+    second: SetaAmarilla_5
   - first:
-      213: -3851748251049267373
-    second: Seta coleccionable spritesheet_6
+      213: -4993078128132066511
+    second: SetaAmarilla_6
   - first:
-      213: -8327647481246742718
-    second: Seta coleccionable spritesheet_7
+      213: -4608641011374103216
+    second: SetaAmarilla_7
   - first:
-      213: 7596249366947553117
-    second: Seta coleccionable spritesheet_8
+      213: 958211404948512735
+    second: SetaAmarilla_8
   - first:
-      213: 889669166334983041
-    second: Seta coleccionable spritesheet_9
+      213: -4705460190594552485
+    second: SetaAmarilla_9
   - first:
-      213: 670976883791747803
-    second: Seta coleccionable spritesheet_10
+      213: 5834604214887806469
+    second: SetaAmarilla_10
   - first:
-      213: 5384941922170885761
-    second: Seta coleccionable spritesheet_11
+      213: 8387042068065247939
+    second: SetaAmarilla_11
   - first:
-      213: 7821608057821860517
-    second: Seta coleccionable spritesheet_12
+      213: 1284175311743382470
+    second: SetaAmarilla_12
   - first:
-      213: -5814864232145274754
-    second: Seta coleccionable spritesheet_13
+      213: -266310486957206628
+    second: SetaAmarilla_13
+  - first:
+      213: 71121010486044644
+    second: SetaAmarilla_14
+  - first:
+      213: -1073664709087690706
+    second: SetaAmarilla_15
+  - first:
+      213: 7403366570537651017
+    second: SetaAmarilla_16
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,12 +161,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_0
+      name: SetaAmarilla_0
       rect:
         serializedVersion: 2
-        x: 422
-        y: 6241
-        width: 1204
+        x: 194
+        y: 6311
+        width: 1679
         height: 1853
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -167,19 +176,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2cb2ea85de04d80a0800000000000000
-      internalID: -6877769667785643070
+      spriteID: 38708e92a8f8cb2e0800000000000000
+      internalID: -2108652701944903805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_1
+      name: SetaAmarilla_1
       rect:
         serializedVersion: 2
-        x: 2470
-        y: 6241
-        width: 1204
+        x: 2363
+        y: 6311
+        width: 1480
         height: 1853
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -189,18 +198,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d408b4dfafd54310800000000000000
-      internalID: 1388762006394766545
+      spriteID: 620f1dc1312b97730800000000000000
+      internalID: 3997421939425669158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_2
+      name: SetaAmarilla_2
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 6241
+        x: 4568
+        y: 6311
         width: 1204
         height: 1853
       alignment: 0
@@ -211,18 +220,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2a64529a564589a0800000000000000
-      internalID: -6231497154581206482
+      spriteID: 5d80566c800b17310800000000000000
+      internalID: 1401094510823672021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_3
+      name: SetaAmarilla_3
       rect:
         serializedVersion: 2
-        x: 6566
-        y: 6241
+        x: 6636
+        y: 6311
         width: 1204
         height: 1853
       alignment: 0
@@ -233,19 +242,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 329327d38219d0930800000000000000
-      internalID: 4111101636874746147
+      spriteID: ba035efb1f114a250800000000000000
+      internalID: 5954904337294897323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_4
+      name: SetaAmarilla_4
       rect:
         serializedVersion: 2
-        x: 422
-        y: 4193
-        width: 1204
+        x: 8515
+        y: 6311
+        width: 1582
         height: 1853
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -255,18 +264,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67fc489e3efbe5ff0800000000000000
-      internalID: -45387960630849674
+      spriteID: 083679a96d04fe030800000000000000
+      internalID: 3526108323715179392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_5
+      name: SetaAmarilla_5
       rect:
         serializedVersion: 2
-        x: 2470
-        y: 4193
+        x: 432
+        y: 4243
         width: 1204
         height: 1853
       alignment: 0
@@ -277,18 +286,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 56d9c39e3346be270800000000000000
-      internalID: 8280822513969962341
+      spriteID: c6239caedb28fe760800000000000000
+      internalID: 7489348457539908204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_6
+      name: SetaAmarilla_6
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 4193
+        x: 2500
+        y: 4243
         width: 1204
         height: 1853
       alignment: 0
@@ -299,18 +308,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35fe9f38f57db8ac0800000000000000
-      internalID: -3851748251049267373
+      spriteID: 1337aec95e505bab0800000000000000
+      internalID: -4993078128132066511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_7
+      name: SetaAmarilla_7
       rect:
         serializedVersion: 2
-        x: 6566
-        y: 4193
+        x: 4568
+        y: 4243
         width: 1204
         height: 1853
       alignment: 0
@@ -321,18 +330,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2478c91dcb04e6c80800000000000000
-      internalID: -8327647481246742718
+      spriteID: 055efb3fa61da00c0800000000000000
+      internalID: -4608641011374103216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_8
+      name: SetaAmarilla_8
       rect:
         serializedVersion: 2
-        x: 422
-        y: 2145
+        x: 6636
+        y: 4243
         width: 1204
         height: 1853
       alignment: 0
@@ -343,18 +352,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5fd1367d8c4b6960800000000000000
-      internalID: 7596249366947553117
+      spriteID: fdf1fab22304c4d00800000000000000
+      internalID: 958211404948512735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_9
+      name: SetaAmarilla_9
       rect:
         serializedVersion: 2
-        x: 2470
-        y: 2145
+        x: 432
+        y: 2175
         width: 1204
         height: 1853
       alignment: 0
@@ -365,18 +374,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 18bb303a46db85c00800000000000000
-      internalID: 889669166334983041
+      spriteID: b5daed223e8d2beb0800000000000000
+      internalID: -4705460190594552485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_10
+      name: SetaAmarilla_10
       rect:
         serializedVersion: 2
-        x: 4518
-        y: 2145
+        x: 2500
+        y: 2175
         width: 1204
         height: 1853
       alignment: 0
@@ -387,18 +396,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdad7eabbe9cf4900800000000000000
-      internalID: 670976883791747803
+      spriteID: 5067261de9da8f050800000000000000
+      internalID: 5834604214887806469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_11
+      name: SetaAmarilla_11
       rect:
         serializedVersion: 2
-        x: 6566
-        y: 2145
+        x: 4568
+        y: 2175
         width: 1204
         height: 1853
       alignment: 0
@@ -409,18 +418,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 186da17c5282bba40800000000000000
-      internalID: 5384941922170885761
+      spriteID: 3c2694f0352c46470800000000000000
+      internalID: 8387042068065247939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_12
+      name: SetaAmarilla_12
       rect:
         serializedVersion: 2
-        x: 422
-        y: 97
+        x: 6636
+        y: 2175
         width: 1204
         height: 1853
       alignment: 0
@@ -431,18 +440,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a21ec2861feb8c60800000000000000
-      internalID: 7821608057821860517
+      spriteID: 6c37ac564ae42d110800000000000000
+      internalID: 1284175311743382470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Seta coleccionable spritesheet_13
+      name: SetaAmarilla_13
       rect:
         serializedVersion: 2
-        x: 2470
-        y: 97
+        x: 432
+        y: 107
         width: 1204
         height: 1853
       alignment: 0
@@ -453,8 +462,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e783bd11ac37d4fa0800000000000000
-      internalID: -5814864232145274754
+      spriteID: c9354f8e500ed4cf0800000000000000
+      internalID: -266310486957206628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetaAmarilla_14
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 107
+        width: 1204
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e76616ae2cacf000800000000000000
+      internalID: 71121010486044644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetaAmarilla_15
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 107
+        width: 1309
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2084f6b2a39911f0800000000000000
+      internalID: -1073664709087690706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SetaAmarilla_16
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 107
+        width: 1457
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b06e2dbaa0eb660800000000000000
+      internalID: 7403366570537651017
       vertices: []
       indices: 
       edges: []
@@ -473,20 +548,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Seta coleccionable spritesheet_0: -6877769667785643070
-      Seta coleccionable spritesheet_1: 1388762006394766545
-      Seta coleccionable spritesheet_10: 670976883791747803
-      Seta coleccionable spritesheet_11: 5384941922170885761
-      Seta coleccionable spritesheet_12: 7821608057821860517
-      Seta coleccionable spritesheet_13: -5814864232145274754
-      Seta coleccionable spritesheet_2: -6231497154581206482
-      Seta coleccionable spritesheet_3: 4111101636874746147
-      Seta coleccionable spritesheet_4: -45387960630849674
-      Seta coleccionable spritesheet_5: 8280822513969962341
-      Seta coleccionable spritesheet_6: -3851748251049267373
-      Seta coleccionable spritesheet_7: -8327647481246742718
-      Seta coleccionable spritesheet_8: 7596249366947553117
-      Seta coleccionable spritesheet_9: 889669166334983041
+      SetaAmarilla_0: -2108652701944903805
+      SetaAmarilla_1: 3997421939425669158
+      SetaAmarilla_10: 5834604214887806469
+      SetaAmarilla_11: 8387042068065247939
+      SetaAmarilla_12: 1284175311743382470
+      SetaAmarilla_13: -266310486957206628
+      SetaAmarilla_14: 71121010486044644
+      SetaAmarilla_15: -1073664709087690706
+      SetaAmarilla_16: 7403366570537651017
+      SetaAmarilla_2: 1401094510823672021
+      SetaAmarilla_3: 5954904337294897323
+      SetaAmarilla_4: 3526108323715179392
+      SetaAmarilla_5: 7489348457539908204
+      SetaAmarilla_6: -4993078128132066511
+      SetaAmarilla_7: -4608641011374103216
+      SetaAmarilla_8: 958211404948512735
+      SetaAmarilla_9: -4705460190594552485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
