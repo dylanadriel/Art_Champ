@@ -51,6 +51,6 @@ public class EnemyMovement : MonoBehaviour
     {
         ProgressBar life = ui.GetComponent<UIDocument>().rootVisualElement.Q("Life") as ProgressBar;
         life.value -= 25;
-        player.GetComponent<CharacterControllerTransform>(). lifes -= 1;
+        player.GetComponent<CharacterControllerTransform>().lifes -= 1;
     }
 }
