@@ -1,9 +1,9 @@
     #Life .unity-progress-bar__progress
 {
-    background-color: rgb(255, 214,2);
+    background-color: rgb(207,52,196);
 }
 
-#Life
+#Life .unity-progress-bar__background
 {
-    background-color: rgb(255,214,2);
+    background-color: rgb(247,232,142);
 }
