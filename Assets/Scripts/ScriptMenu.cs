@@ -29,7 +29,6 @@ public class ScriptMenu : MonoBehaviour
         //pongo variable root para no tener que llamar a get component cada vez
         var root = GetComponent<UIDocument>().rootVisualElement;
 
-        botonReanudar = root.Q<Button>("Reanudar"); 
         botonPlay = root.Q<Button>("PlayButton");
         botonAjustes = root.Q<Button>("Ajustes");
         botonCredits = root.Q<Button>("CreditsButton");
