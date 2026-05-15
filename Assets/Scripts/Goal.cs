@@ -14,7 +14,7 @@ public class Goal : MonoBehaviour
 
             int points = int.Parse(pointsLabel.text);
 
-            if (points == 5)
+            if (points == 1)
             {
                 imageToShow.SetActive(true);
             }
