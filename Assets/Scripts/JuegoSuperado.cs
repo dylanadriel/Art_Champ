@@ -2,10 +2,10 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
 
-public class GameOver : MonoBehaviour
+public class JuegoSuperado : MonoBehaviour
 {
     // Variables para las referencias del UXML
-    Button botonReintentar;
+    Button botonReempezar;
     Button botonMenuPrincipal;
     Button botonSalir;
 
@@ -17,11 +17,11 @@ public class GameOver : MonoBehaviour
         //pongo variable root para no tener que llamar a get component cada vez
         var root = GetComponent<UIDocument>().rootVisualElement;
 
-        botonReintentar = root.Q<Button>("Reintentar"); 
+        botonReempezar = root.Q<Button>("Reempezar"); 
         botonMenuPrincipal = root.Q<Button>("MenuPrincipal");
         botonSalir = root.Q<Button>("Salir");
         
-        botonReintentar.clicked += StartGame;
+        botonReempezar.clicked += StartGame;
         botonMenuPrincipal.clicked += ChangePage;
         botonSalir.clicked += SalirDelJuego;
 
@@ -50,7 +50,7 @@ public class GameOver : MonoBehaviour
 
     void OnDisable()
     {
-        botonReintentar.clicked -= StartGame;
+        botonReempezar.clicked -= StartGame;
         botonMenuPrincipal.clicked -= ChangePage;
         botonSalir.clicked -= SalirDelJuego;
         //añado esto para que no se ejecuten varias veces las funciones

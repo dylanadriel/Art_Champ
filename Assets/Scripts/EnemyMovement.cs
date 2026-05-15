@@ -4,8 +4,8 @@ using UnityEngine.UIElements;
 public class EnemyMovement : MonoBehaviour
 {
     public float speed = 2f;
-    public float leftLimit = -2f;
-    public float rightLimit = 2f;
+    public float leftLimit = -11.95f;
+    public float rightLimit = -9.94f;
 
     private int direction = 1;
 
@@ -28,11 +28,15 @@ public class EnemyMovement : MonoBehaviour
         // Cambiar dirección al llegar a los límites
         if (transform.position.x >= rightLimit)
         {
+            transform.position = new Vector2(rightLimit, transform.position.y);
+            
             direction = -1;
             Flip();
         }
         else if (transform.position.x <= leftLimit)
         {
+            transform.position = new Vector2(leftLimit, transform.position.y);
+            
             direction = 1;
             Flip();
         }
@@ -47,7 +51,7 @@ public class EnemyMovement : MonoBehaviour
         transform.localScale = scale;
     }
 
-    void OnCollisionEnter2D()
+    void OnCollisionEnter2D(Collision2D collision)
     {
         ProgressBar life = ui.GetComponent<UIDocument>().rootVisualElement.Q("Life") as ProgressBar;
         life.value -= 25;
