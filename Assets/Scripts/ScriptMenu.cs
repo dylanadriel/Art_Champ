@@ -22,6 +22,8 @@ public class ScriptMenu : MonoBehaviour
     VisualElement OpcionesAccesibilidad;
     bool accesibilidadActiva = false;
     float tamanoFuente = 20f;
+    float tamanoMin = 12f;
+    float tamanoMax = 30f;
 
 
     void OnEnable()
@@ -117,23 +119,25 @@ public class ScriptMenu : MonoBehaviour
     void AumentarFuente()
     {
         tamanoFuente += 2f;
-        botonReanudar.style.fontSize = tamanoFuente;
-        botonPlay.style.fontSize = tamanoFuente;
-        botonAjustes.style.fontSize = tamanoFuente;
-        botonCredits.style.fontSize = tamanoFuente;
-        botonAccesibilidad.style.fontSize = tamanoFuente;
-        botonSalir.style.fontSize = tamanoFuente;
+        tamanoFuente = Mathf.Clamp(tamanoFuente, tamanoMin, tamanoMax);
+
+        botonPlay.style.fontSize = new StyleLength(tamanoFuente);
+        botonAjustes.style.fontSize = new StyleLength(tamanoFuente);
+        botonCredits.style.fontSize = new StyleLength(tamanoFuente);
+        botonAccesibilidad.style.fontSize = new StyleLength(tamanoFuente);
+        botonSalir.style.fontSize = new StyleLength(tamanoFuente);
     }
 
     void DisminuirFuente()
     {
         tamanoFuente -= 2f;
-        botonReanudar.style.fontSize = tamanoFuente;
-        botonPlay.style.fontSize = tamanoFuente;
-        botonAjustes.style.fontSize = tamanoFuente;
-        botonCredits.style.fontSize = tamanoFuente;
-        botonAccesibilidad.style.fontSize = tamanoFuente;
-        botonSalir.style.fontSize = tamanoFuente;
+        tamanoFuente = Mathf.Clamp(tamanoFuente, tamanoMin, tamanoMax);
+
+        botonPlay.style.fontSize = new StyleLength(tamanoFuente);
+        botonAjustes.style.fontSize = new StyleLength(tamanoFuente);
+        botonCredits.style.fontSize = new StyleLength(tamanoFuente);
+        botonAccesibilidad.style.fontSize = new StyleLength(tamanoFuente);
+        botonSalir.style.fontSize = new StyleLength(tamanoFuente);
     }
 
 }
